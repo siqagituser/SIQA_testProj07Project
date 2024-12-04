@@ -10,17 +10,18 @@
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="PackX">1.0</value>
     <value name="PackY">1.0</value>
+    <value name="PackageA">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">4</value>
+  <value name="build">5</value>
   <null name="description"/>
   <value name="created_date">02-12-2024 10:05:46 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-12-02T10:10:05.532080395Z</value>
+  <value name="lastUpdated">2024-12-04T05:13:14.002889111Z</value>
   <value name="wmProjectId">fl293b56aa762e2c66915198</value>
   <value name="creator">siqaauto RnD</value>
 </Values>
