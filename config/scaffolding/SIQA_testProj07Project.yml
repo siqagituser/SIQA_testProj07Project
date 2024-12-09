@@ -7,11 +7,6 @@ packages:
   gitUrl: https://github.com/siqagituser
   gitUsername: siqagituser
   gitBranch: main
-- name: PackageA
-  gitServerName: SIQAPsur
-  gitUrl: https://github.com/prabhakarsag
-  gitUsername: prabhakarsag
-  gitBranch: main
 - name: PackX
   gitServerName: SIQAPsur
   gitUrl: https://github.com/prabhakarsag
